@@ -15,7 +15,12 @@ Data preprocessing and cleaning for health-related datasets Training ML models f
 
 Python 3.x NumPy, Pandas → Data handling Scikit-learn → Machine learning algorithms Matplotlib, Seaborn → Visualization Joblib → Model persistence
 
-📂 Project Structure Disease_Detector/ │── Disease_Detector.ipynb # Main Jupyter Notebook │── requirements.txt # List of dependencies │── README.md # Project documentation │── models/ # Saved ML models │── data/ # Dataset (if available)
+📂 Project Structure Disease_Detector/ 
+│── Disease_Detector.ipynb # Main Jupyter Notebook 
+│── requirements.txt # List of dependencies 
+│── README.md # Project documentation 
+│── models/ # Saved ML models 
+│── data/ # Dataset (if available)
 
 ⚙️ Installation
 
@@ -35,9 +40,13 @@ Train the model and generate predictions.
 
 (Optional) Use the saved model (.pkl file) for deployment in other applications.
 
-📊 Example Workflow Load dataset Preprocess data Train ML model (Random Forest / Logistic Regression / etc.) Evaluate accuracy, confusion matrix Save trained model for later usage
+📊 Example 
 
-🔮 Future Improvements Build a Streamlit Web App for user-friendly interaction Expand dataset for more disease categories Add Deep Learning models for better accuracy Deploy on Cloud (AWS/GCP/Heroku)
+Workflow Load dataset Preprocess data Train ML model (Random Forest / Logistic Regression / etc.) Evaluate accuracy, confusion matrix Save trained model for later usage
+
+🔮 Future Improvements 
+
+Build a Streamlit Web App for user-friendly interaction Expand dataset for more disease categories Add Deep Learning models for better accuracy Deploy on Cloud (AWS/GCP/Heroku)
 
 👨‍💻 Author
 
