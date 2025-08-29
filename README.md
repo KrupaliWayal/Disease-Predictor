@@ -29,7 +29,7 @@ Install dependencies: pip install -r requirements.txt
 
 Open Colab Notebook:
 
-Run the Disease_Detector.ipynb file step by step.
+Run the Untitled0.ipynb file step by step.
 
 Train the model and generate predictions.
 
@@ -41,4 +41,4 @@ Train the model and generate predictions.
 
 👨‍💻 Author
 
-Ishan Mishra 💼 LinkedIn - https://www.linkedin.com/in/krupali-wayal-0860b5357/ 📧 Email: wayalkrupali@gmail.com
+Krupali Wayal 💼 LinkedIn - https://www.linkedin.com/in/krupali-wayal-0860b5357/ 📧 Email: wayalkrupali@gmail.com
